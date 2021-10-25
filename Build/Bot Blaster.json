@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Unity FPS",
+"productVersion": "1.0.4-preview",
+"dataUrl": "Bot Blaster.data.unityweb",
+"wasmCodeUrl": "Bot Blaster.wasm.code.unityweb",
+"wasmFrameworkUrl": "Bot Blaster.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
